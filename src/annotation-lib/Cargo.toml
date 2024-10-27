@@ -1,0 +1,20 @@
+[package]
+name = "annotation-lib"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+proc-macro =true
+[dependencies]
+num-traits = "0.2.14"
+syn = { version = "*", features = ["extra-traits"] }
+quote = "*"
+proc-macro2 = "*"
+#r3bl_rs_utils = "*"
+base64 = "0.13.1"
+rand = {version = "0.5.0", features = ["std"]}
+rust-crypto = "0.2.36"
+regex = "1.5.5"
+aes-gcm = "0.10.3"

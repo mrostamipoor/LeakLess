@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+URL="http://0.0.0.0:3000/authenticate-at-edge2"
+PARAMETERS="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+HEADERS=(-H 'Notion-key: secret_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890')
+
+# Running curl command
+curl -X POST "${HEADERS[@]}" "$URL" -d "$PARAMETERS"

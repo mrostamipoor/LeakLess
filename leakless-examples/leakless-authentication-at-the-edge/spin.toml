@@ -1,0 +1,23 @@
+spin_manifest_version = "1"
+authors = ["Maryam Rostamipoor"]
+description = "This example authenticates users using a shared API key."
+name = "spin-auth-at-edge"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+[variables]
+notion_key = { default = "secret_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890", leaklesssecret = true }
+
+[[component]]
+id = "authenticate_edge"
+app_id = "authenticate_edge"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key }}"

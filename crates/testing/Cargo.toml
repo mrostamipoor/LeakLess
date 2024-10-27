@@ -1,0 +1,19 @@
+[package]
+name = "spin-testing"
+version = { workspace = true }
+authors = { workspace = true }
+edition = { workspace = true }
+
+[dependencies]
+anyhow = "1.0"
+http = "0.2"
+hyper = "0.14"
+serde = "1"
+serde_json = "1"
+spin-app = { path = "../app" }
+spin-core = { path = "../core" }
+spin-trigger-http = { path = "../trigger-http" }
+spin-trigger = { path = "../trigger" }
+tokio = { version = "1", features = ["macros", "rt"] }
+tracing-subscriber = "0.3"
+spin-componentize = { workspace = true }

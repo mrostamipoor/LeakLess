@@ -1,0 +1,1712 @@
+[
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ffmpeg-layer",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-golang-auth-examples",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-golang-dynamo-stream-to-elasticsearch",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-golang-googlemap",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-golang-http-get-post",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-golang-rest-api-with-dynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-golang-s3-file-replicator",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-golang-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-golang-stream-kinesis-to-elasticsearch",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-java-simple-http-endpoint",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-multiple-runtime",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-alexa-skill",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-auth0-cognito-custom-authorizers-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-auth0-custom-authorizers-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-dynamic-image-resizer",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-dynamodb-backup",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-env-variables",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-env-variables-encrypted-in-a-file",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-express-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-express-dynamodb-api",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-fetch-file-and-store-in-s3",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-fullstack",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-function-compiled-with-babel",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-github-check",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-github-webhook-listener",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-graphql-and-rds",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-graphql-api-with-dynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-heroku-postgres",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-http-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-http-api-dynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-http-api-mongodb",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-http-api-typescript",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-http-api-typescript-dynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-iot-event",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-mongodb-atlas",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-oauth-dropbox-api",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-puppeteer",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-recursive-function",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-rekognition-analysis-s3-image",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-rest-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-rest-api-mongodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-rest-api-typescript",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-rest-api-typescript-simple",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-rest-api-with-dynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-rest-api-with-dynamodb-and-offline",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-s3-file-replicator",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-scheduled-cron",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-scheduled-weather",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API Key, API Key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-serve-dynamic-html-via-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-serverless-gong",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API Key, API Token ",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-ses-receive-email-body",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-ses-receive-email-header",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-shared-gateway",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-signed-uploads",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-simple-transcribe-s3",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-single-page-app-via-cloudfront",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-sqs-worker",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-stripe-integration",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-telegram-echo-bot",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-text-analysis-via-sns-post-processing",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-twilio-send-text-message",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-twitter-joke-bot",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API secret, API secret ",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-typescript",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-typescript-apollo-lambda",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-typescript-kinesis",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-typescript-nest",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-typescript-rest-api-with-dynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-typescript-sqs-standard",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-upload-to-s3-and-postprocess",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-vue-nuxt-ssr",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-node-websockets-authorizers",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-alexa-skill",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-auth0-custom-authorizers-api",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-flask-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-flask-dynamodb-api",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-http-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-http-api-with-dynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-http-api-with-pynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-line-echo-bot",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "Sign key, API secret ",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "P"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-pynamodb-s3-sigurl",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-rest-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-rest-api-with-dynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-rest-api-with-faunadb",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-rest-api-with-pymongo",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-rest-api-with-pynamodb",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-scheduled-cron",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-sqs-worker",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-python-telegram-bot",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API Token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ruby-cron-with-dynamodb",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ruby-line-bot",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ruby-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ruby-sinatra-dynamodb-api",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ruby-sqs-with-dynamodb",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ruby-step-functions",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ruby-step-functions-express",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-ruby-step-functions-with-callback",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/aws-rust-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/azure-node-line-bot",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API secret",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/azure-node-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/azure-node-telegram-bot",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API secret",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/azure-node-typescript-servicebus-trigger-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/google-golang-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/google-node-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/google-node-typescript-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/google-python-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/google-ruby-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/kubeless-python-simple-function",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/kubeless-python-simple-scheduled-function",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-nodejs-typescript",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/azure-csharp",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-kotlin-jvm-maven",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/spotinst-ruby",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/twilio-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/google-python",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-nodejs-ecma-script",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-python",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-alexa-typescript",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-nodejs-docker",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/azure-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/openwhisk-ruby",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/kubeless-python",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/google-go",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-python-docker",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-go-dep",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-scala-sbt",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-clojure-gradle",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/openwhisk-python",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-csharp",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/google-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-ruby",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-fsharp",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/hello-world",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/tencent-python",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aliyun-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/spotinst-java8",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/openwhisk-java-maven",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/tencent-go",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-provided",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-java-maven",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/spotinst-python",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-groovy-gradle",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/google-nodejs-typescript",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-kotlin-nodejs-gradle",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/tencent-php",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/fn-go",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/azure-nodejs-typescript",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/openwhisk-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/openwhisk-swift",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-go",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/azure-python",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/cloudflare-workers",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-kotlin-jvm-gradle-kts",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/cloudflare-workers-enterprise",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/kubeless-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/fn-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/plugin",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/spotinst-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/tencent-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-go-mod",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/huawei-nodejs",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/openwhisk-php",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/cloudflare-workers-rust",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-kotlin-jvm-gradle",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-clojurescript-gradle",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/knative-docker",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-python3",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/legacy/aws-java-gradle",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-go-simple",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-node-and-docker-chaining-functions",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-node-chaining-functions",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-node-scheduled-cron",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-node-simple",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-node-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-php-simple",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-python-scheduled-cron",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-python-simple",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-python-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-ruby-simple",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-rust-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-swift-precompiled-binaries",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-swift-scheduled-cron",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-swift-simple",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/openwhisk-swift-simple-http-endpoint",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link": "https://github.com/serverless/examples/tree/v3/twilio-node-forward-call",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    }
+]

@@ -1,0 +1,1298 @@
+[
+    {
+        "Link Address": "https://github.com/AggressivelyMeows/Horseman/blob/76060d372c2547e405fa03b748d93c7603e3dffe/wrangler.template.toml",
+        "Number of senstive data ": 3,
+        "Types of senstive data ": "API key, user password, API token",
+        "Number of Leakless supported": 3,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/ampproject/cdn-worker/blob/05b491bec4798cf90a89486fadc0bf4bca4db559/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/ardatan/graphql-mesh/blob/8d3f7deca864ae4305723193bfc93c594545d483/examples/cloudflare-workers/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/AudiusProject/web3-provider-proxy/blob/d90bffd9daccd3a85e67d682a8f7108e1d52b0dc/wrangler-template.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/BANKA2017/twitter-monitor/blob/be9335f731467959f3677246a6fbfaaea9eb9614/apps/open_account/backend/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/bra1nDump/show-me-chatgpt-plugin/blob/df403552c545c8ccc9e8e64be84198ae9898f78e/wrangler.local.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API key, API key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/cdnjs/api-worker/blob/95b41d8f89394b49222b971293ba10cacb08ed10/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/cloudflare/doom-workers/blob/e98192b44e39108b8340ae228da1cbb5f0b59820/wrangler-router.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/cloudflare/worker-speedtest-template/blob/90e93492760fdec81edc4b64540699b113af22ee/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/cloudflare/workers-sdk/blob/912bfeb249a3047804bcb7c152b4f71507ce6c8c/templates/worker-turso-ts/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/cloudflare/worker-template/blob/0a210fe7f907f49c252845c394f9f929032cad4f/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/CrowdDotDev/crowd.dev/blob/0b4fa7dffd6472c12500ad909b465270b727adbb/frontend/wrangler.toml",
+        "Number of senstive data ": 4,
+        "Types of senstive data ": "API key, API key, API key, API key",
+        "Number of Leakless supported": 4,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/Dav1dde/pasteofexile/blob/64abef1053e81991e7af0ffe3a98c939d4bad854/wrangler.dev.toml",
+        "Number of senstive data ": 4,
+        "Types of senstive data ": "Sign key, API key, API secret, API token ",
+        "Number of Leakless supported": 3,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "P"
+    },
+    {
+        "Link Address": "https://github.com/dcposch/btcmirror/blob/437fc4340ad99295a2d76a9680a6e7af8e07a8fa/packages/submitter/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "private key, API key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "P"
+    },
+    {
+        "Link Address": "https://github.com/discord/avatar-remix-bot/blob/95b28e187e568e3a2fbcdc82fcf7adb6c869314c/wrangler.toml",
+        "Number of senstive data ": 3,
+        "Types of senstive data ": "API token, API token, API token",
+        "Number of Leakless supported": 3,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/drizzle-team/drizzle-orm/blob/0a4e3b265ce121675e7baa14f3a39669ea387e6d/examples/neon-cloudflare/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "Database name, Database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/edmundhung/maildog/blob/f17fad7f227d4b3bd6f0e217ed3642e37c1fe5fc/packages/web/wrangler.toml",
+        "Number of senstive data ": 4,
+        "Types of senstive data ": "Encryption key, private_key, API secret, API token",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 2,
+        "Number of proxy supported": 0,
+        "Type of support": "P"
+    },
+    {
+        "Link Address": "https://github.com/evanderkoogh/otel-cf-workers/blob/2d370cb9098a9066da3ba2b3102d6f29e5c99c31/examples/worker/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/filecoin-project/specs/blob/936f07f9a444036fe86442c919940ea0e4fb0a0b/api/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API token",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/fiverr/health-check-to-splunk-on-call/blob/af00307c32ab478b1dba76b592610cef72bde6df/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API secret",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/FixTweet/FixTweet/blob/08c6ce1fb58ebe2cec4e694cea73eb12ee801ec5/wrangler.example.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/Flangvik/AMSI.fail/blob/b8cfe61c2f1061a63f539f58031447a6191ad801/docs/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/flareact/flareact/blob/82f143d23959d096cb599eb1020e96bdd6c33e28/examples/with-styled-components/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/flareact/flareact-site/blob/045a979c942ae7ea7aa4a22317adbde5a425cc08/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/fontsource/fontsource/blob/763654ad635fbebb7d2cdaffd9e4b76fc7404be0/api/cdn/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/frandiox/vitedge/blob/bad622769ef7538c897956112439adf82483fd37/examples/worker-site/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/fuergaosi233/openai-proxy/blob/365ab9bd0efca3b95388090ef5b5457713d73395/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/harlan-zw/nuxt-og-image/blob/4c9fe4317b8d7dfe6d2a2c5b4e22bf0f3c4b59fa/.playground/wrangler-pages.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/iamshaynez/telegram-assistant/blob/fcff1abf737dda3dabc637d0d7143cf566331a97/wrangler-template.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API token",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/iann0036/former2/blob/6f7894c5b07c7b81aaa998b11139a9ad42b4fdba/lib/drawio/etc/redirect-worker/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/ihciah/ddns-worker/blob/56f46f479fd0688d2842084e405f71eb2b51a59d/wrangler_example.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/jacob-ebey/remix-d1-northwind/blob/6ce3ad74b27acbc5f20dc3dc3b1f6d223d6beea6/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/jbeeko/cfworker-web-api/blob/e946b551331492cb8118e6a9ba722256dfc11ad6/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/jinglescode/nostr-url-shortener/blob/0cb725cd15248a87d03b21f372896619c368c88d/cf-redirector/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/KilleenCode/tauri-update-cloudflare/blob/c32563cc2eee5556f84860e1ae6f1c5675da38fc/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/kriasoft/react-starter-kit/blob/b882d5a759b3d344fe390205e0db68387c9057de/edge/wrangler.toml",
+        "Number of senstive data ": 3,
+        "Types of senstive data ": "API token, API token, API token",
+        "Number of Leakless supported": 3,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/kristianfreeman/gatsby-cloudflare-workers/blob/e3024d5766bd79d87c8521e8b0af69c397023a2e/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/kristianfreeman/workers-unsplash-api/blob/8ac9cf1c43201bc1b71b1ab89130d7fa4252d0f7/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/lane711/sonicjs/blob/642659893008bc627cd2fdd30e827f50f953a95f/wrangler.example.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "user password",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/lazd/mdn.io/blob/254e2d85be53e647deff40bd7d16a422413a7d7a/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/lgrammel/modelfusion/blob/f748e12f5d8e994f149095854a5f93a463b2072b/examples/cloudflare-workers/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/mackenly/multiflux/blob/650aae6046e3aa08c7d147aaf5803ec1667570c6/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/meistrari/cursive/blob/df85e98e7cdb66d120533afd22f55858440a631f/examples/cf-proxy/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API token",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/midudev/midu.link/blob/c85b321ae3707a96a6254b25290769e4e64f2c27/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/n1ru4l/envelop/blob/8f8998dd21b6cad929094debf56bb5a228cf9a7d/packages/plugins/response-cache-cloudflare-kv/wrangler.jest.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/okym-t/remix-cloudflare-workers-starterkit/blob/5ed29873eded26e60620716ee66f99816ff64c65/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/openchargemap/ocm-system/blob/de410868604ccd2f55743773f6934f9c3ab9123c/API/OCM.Net/OCM.API.Worker/cloudflare/api-router/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/prisma/ecosystem-tests/blob/0476394fa3301007c090acaf1174ec2b4e263fb7/dataproxy/cloudflare-workers-module/wrangler.base.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/proofzero/rollupid/blob/292a870885668243a2cc72a63372d98fc539c36a/apps/passport/wrangler.dev.toml",
+        "Number of senstive data ": 10,
+        "Types of senstive data ": "API token, API token, API token, API token, API token, API token, API token, API token, API token, encryption key",
+        "Number of Leakless supported": 9,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "P"
+    },
+    {
+        "Link Address": "https://github.com/proofzero/rollupid/blob/292a870885668243a2cc72a63372d98fc539c36a/apps/profile/wrangler.current.toml",
+        "Number of senstive data ": 4,
+        "Types of senstive data ": "Modified API token, Modified API token, encryption key, API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 3,
+        "Number of proxy supported": 0,
+        "Type of support": "P"
+    },
+    {
+        "Link Address": "https://github.com/pureink/inkrss/blob/9d8bc5e03d1a3033e2f598819c95f912cb5fba8b/wrangler.example.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API token",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/python-discord/workers/blob/731087340f66a109a742dc783c96ce8ed7ecb50f/report-uri/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/python-discord/workers/blob/731087340f66a109a742dc783c96ce8ed7ecb50f/serve-robots/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/radiantly/the-redirector/blob/2c9ad47a5566cb955bf9d2c3ac13c963b1d5ca58/wrangler.example.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/remix-run/remix/blob/f7defe0b46c50947f6269d5ab5b6e3fe59339054/integration/helpers/cf-template/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/senimanjs/seniman/blob/c5ce19bdc0620c732e09fed8245953da4648ba4c/examples/cloudflare-workers/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/siketyan/stateless-discord-bot/blob/c269e89930c9bb27ecf7f8ddcafe3fc994520f9a/wrangler.example.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/splitbee/notion-api-worker/blob/bfadc378948a5089632dacd29c1b442ee263b95c/wrangler.example.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/spruceid/siwe-oidc/blob/bc95ba286b18c0625da54e2f23ba2d885c4150dd/wrangler_example.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "JWT sign key, API secret",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/ssMMiles/discord-interactions/blob/fa7a011ff1a33149cc9bf41cfa5c94170868e7e0/packages/example-bot-worker/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/SunderJS/sunder-worker-template/blob/a0be62fecb04757b1796a9c26df8ff2e2c9c62d0/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/SunYufei/workers-dav/blob/6bac29af1813d33179d25a2746214714c652a740/wrangler.default.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/supabase/supabase/blob/8c2c609950fdc8c4a8e2077454498a17fd1c3a15/examples/with-cloudflare-workers/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/sveltejs/kit/blob/87da73e361070071b01fc459c5639d26baab34f5/packages/create-svelte/templates/default/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/tapexyz/tape/blob/8b8b10bfc2c7895ea74a7b4d48822b24d3aa1395/packages/workers/views/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/tastejs/angular-movies/blob/2fb531a51da71875bc188ebb754cacffeb080f68/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/TBXark/ChatGPT-Telegram-Workers/blob/edd85ae22bcc97baf89e26b2c097a64d1748d73f/wrangler-example.toml",
+        "Number of senstive data ": 4,
+        "Types of senstive data ": "API token, API token, API token, API token",
+        "Number of Leakless supported": 4,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/team-openpm/cloudflare-vector-search/blob/aeeb83204f6a4b18b083a7c32b8e55ad55e6d901/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API token",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/tgbot-collection/YYeTsBot/blob/df7dbb2ba1c4feebda72b35f20454e0b46a4c3f6/yyets/worker/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/the-hideout/tarkov-dev/blob/babf626e2d8c8d6a795e1ab8f5cfa2ce2e005704/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "modified API token",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "N"
+    },
+    {
+        "Link Address": "https://github.com/thekevinscott/UpscalerJS/blob/9ad58e286ff71457d1e4b8d31a6ca02ca1b6b55a/examples/cloudflare-worker/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/toeverything/AFFiNE/blob/a3d4c5c7091c14d44e18826d8d2318476b649302/tools/workers/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/transitive-bullshit/chatgpt-plugin-ts/blob/e59a998e7ac3840cd586b92a939da4b7df85a6ac/examples/anime-adventure/wrangler.example.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/transitive-bullshit/chatgpt-plugin-ts/blob/e59a998e7ac3840cd586b92a939da4b7df85a6ac/examples/dexa-lex-fridman/wrangler.example.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/transitive-bullshit/chatgpt-plugin-ts/blob/e59a998e7ac3840cd586b92a939da4b7df85a6ac/examples/dexa-mfm/wrangler.example.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/transitive-bullshit/chatgpt-plugin-ts/blob/e59a998e7ac3840cd586b92a939da4b7df85a6ac/examples/talk-to-books/wrangler.example.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/trevorblades/countries/blob/f6f33ba12c617cc1389a9cd7117acc02219f649b/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/trpc/trpc/blob/a130e207af14e801d586aabb58eaa3f0b9fe8ef0/examples/cloudflare-workers/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/turso-extended/api-mug-store-api/blob/feb6c42ff9535eab7792f1847822d270bfe7ddeb/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/tw-in-js/twind/blob/c077d4b3fb1d5b79534b7d2a3939c4fb96e77f59/sites/twind.run/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API secret",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/Unirep/Unirep/blob/bfdef979eb7a47387591b96aa46b1b35121aa5a3/packages/contracts/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/unkeyed/unkey/blob/66a37937aa57d002e904c827faf94b559cbb4aa3/examples/cloudflare/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/upstash/ratelimit/blob/b0de9ea28ef889541b1bd030bdf5cf225da09802/examples/cloudflare-workers/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/upstash/sdk-qstash-ts/blob/64573cdfe6bbde38b4233401f800c51049988d23/examples/cloudflare-workers/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "Sign key, Sign key ",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/vikejs/vike/blob/86d6558eb0ea0716b0f349af4cf6c35f7c3e2acd/examples/cloudflare-workers-react-full/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/VisheshBansal/Portfolio-Website/blob/eeac27a39c864a7037ac89b2a691aed1113ea40a/wrangler.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/VoileLabs/cotrans/blob/08992fa0d89e40f22477e90a361823942f2f8c86/wk-gateway/wrangler.domitworker.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, private key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "P"
+    },
+    {
+        "Link Address": "https://github.com/web3-storage/w3name/blob/c9343b715109bac2b0ac7f57f757f2b2c71ad79b/packages/api/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API secret",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/WICG/webmonetization/blob/3fea5fa884971d571cadbcdbd7bf9fdec795165b/workers/probabilistic-revshare/wrangler.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/yusukebe/hono-htmx/blob/9636122a450468e102953e5e911cc67f73b2255f/wrangler.sample.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/zwave-js/firmware-updates/blob/538d4d4d4a01b75adbb985cbc0cee5219c03200c/wrangler.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "Encryption key, API secret",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "P"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/return-html/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/return-json/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/fetch-html/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/fetch-json/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/redirect/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/accessing-the-cloudflare-object/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/respond-with-another-site/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/103-early-hints/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/ab-testing/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/aggregate-requests/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/alter-headers/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/auth-with-headers/",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/block-on-tls/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/bulk-origin-proxy/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/bulk-redirects/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/cache-post-request/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/cache-using-fetch/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/conditional-response/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/extract-cookie-value/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/cors-header-proxy/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/country-code-redirect/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/data-loss-prevention/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/images-workers/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/debugging-logs/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/geolocation-custom-styling/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/geolocation-app-weather/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/geolocation-hello-world/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/hot-link-protection/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/modify-request-property/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/logging-headers/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/modify-response/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/multiple-cron-triggers/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/read-post/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/post-json/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/rewrite-links/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/security-headers/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/signing-requests/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/cron-trigger/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/turnstile-html-rewriter/",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://developers.cloudflare.com/workers/examples/cache-api/",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/mailersend/mailersend-nodejs",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/cloudflare/workers-honeycomb-logger/tree/80a04131f31bc5b6e9c3076b7da1f25db7749b15",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/clgeoio/pusher-beams-fetch/tree/a10a0d7f4ceb4fb151f89009a4d5eda89477a97a",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "JWT sign key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/AlexTMjugador/GitHub-webhook-filter-proxy",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "Sign key",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "N"
+    },
+    {
+        "Link Address": "https://github.com/kriasoft/cloudflare-client",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API secret",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/kriasoft/web-auth-library",
+        "Number of senstive data ": 3,
+        "Types of senstive data ": "JWT sign key, API token, API secret",
+        "Number of Leakless supported": 3,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/Snazzah/slash-create-worker",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/Treblle/treblle-node/tree/3f9c1ae719e63ed0237be0b4479f6a1ac594dfa7",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/Sharks-Interactive/workers-firebase-rtdb-rest-client",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token, API secret",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/mhart/aws4fetch",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/cloudflare/workers-aws-template",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/cloudflare/workers-aws-template",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/worker-tools/webauthn-example/tree/master",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "sign key",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "N"
+    }
+]

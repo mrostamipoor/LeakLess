@@ -1,0 +1,23 @@
+spin_manifest_version = "1"
+authors = ["Maryam Rostamipoor"]
+description = "An application that fetches information from an external service using internal static sensitive data."
+name = "spin-authentication-stored-token"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+[variables]
+api_key = { default = "secret_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890", leaklesssecret=true}
+
+[[component]]
+id = "rust-authentication-stored-token"
+app_id = "rust-authentication-stored-token"
+source = "target/wasm32-wasi/release/authentication_stored_token.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/authentication-stored-token"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+api_key = "{{ api_key }}"

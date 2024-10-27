@@ -1,0 +1,327 @@
+spin_manifest_version = "1"
+authors = ["Maryam Rostamipoor"]
+description = "This example authenticates users using a shared API key."
+name = "stress-test"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+[variables]
+notion_key_enc = { default = "secret_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890", leaklesssecret = true }
+username = { default = "username"}
+password_enc = { default = "vTSAexmZuW~0", leaklesssecret=true}
+password = { default = "vTSAexmZuW~0"}
+s3_access_enc = { default = "AKIASKIOA3B6567WOUPI", leaklesssecret = true }
+s3_secret_enc = { default = "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", leaklesssecret = true , leaklessoperation = "sign-request"}
+s3_access = { default = "AKIASKIOA3B6567WOUPI"}
+s3_secret = { default = "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"}
+jwt_key_enc = { default = "my_secret_key", leaklesssecret = true, leaklessoperation = "jwt-sign" }
+jwt_key = { default = "my_secret_key"}
+api_key_enc = { default = "secret_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890", leaklesssecret=true}
+api_key = { default = "secret_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"}
+notion_key_simple = { default = "secret_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890" }
+
+[[component]]
+id = "authenticate_edge_enc"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge_enc.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge-enc"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_enc }}"
+
+[[component]]
+id = "authenticate_edge"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "stored-password_enc"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/stored_password_enc.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/stored-password-enc"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+username = "{{ username }}"
+password = "{{ password_enc }}"
+
+[[component]]
+id = "stored-password"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/stored_password_enc.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/stored-password"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+username = "{{ username }}"
+password = "{{ password }}"
+
+[[component]]
+id = "transfer_secret_enc"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/transfer_secret_enc.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/transfer-secret-enc"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[[component]]
+id = "transfer_secret"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/transfer_secret_enc.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/transfer-secret"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[[component]]
+source = "target/wasm32-wasi/release/sign_request_enc.wasm"
+id ="sign-request-enc"
+app_id ="stress_test"
+files = [{ source = "", destination = "/" }]
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/uploadfile-enc.txt"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+s3_access = "{{ s3_access_enc }}"
+s3_secret = "{{ s3_secret_enc }}"
+
+[[component]]
+source = "target/wasm32-wasi/release/sign_request.wasm"
+id ="sign-request"
+app_id ="stress_test"
+files = [{ source = "", destination = "/" }]
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/uploadfile.txt"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+s3_access = "{{ s3_access }}"
+s3_secret = "{{ s3_secret }}"
+
+[[component]]
+id = "jwt-sign-enc"
+app_id = "stress_test"
+allowed_http_hosts = ["insecure:allow-all"]
+source = "target/wasm32-wasi/release/jwt_sign_enc.wasm"
+files = [{ source = "", destination = "/" }]
+description = ""
+
+[component.trigger]
+route = "/jwt-sign-enc"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+watch = ["src/**/*.rs", "Cargo.toml"]
+
+
+
+[component.config]
+jwt_key = "{{ jwt_key}}"
+
+[[component]]
+id = "jwt-sign"
+app_id = "stress_test"
+allowed_http_hosts = ["insecure:allow-all"]
+source = "target/wasm32-wasi/release/jwt_sign.wasm"
+files = [{ source = "", destination = "/" }]
+description = ""
+
+[component.trigger]
+route = "/jwt-sign"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+watch = ["src/**/*.rs", "Cargo.toml"]
+
+
+
+[component.config]
+jwt_key = "{{ jwt_key}}"
+
+[[component]]
+id = "rust-authentication-stored-token-enc"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/authentication_stored_token_enc.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/authentication-stored-token-enc"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+api_key = "{{ api_key_enc }}"
+
+[[component]]
+id = "rust-authentication-stored-token"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/authentication_stored_token_enc.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/authentication-stored-token"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+api_key = "{{ api_key }}"
+
+
+
+[[component]]
+id = "authenticate_edge1"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge1"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "authenticate_edge2"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge2"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "authenticate_edge3"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge3"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "authenticate_edge4"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge4"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "authenticate_edge5"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge5"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "authenticate_edge6"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge6"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "authenticate_edge7"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge7"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "authenticate_edge8"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge8"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"
+
+[[component]]
+id = "authenticate_edge9"
+app_id = "stress_test"
+source = "target/wasm32-wasi/release/auth_at_edge.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge9"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+notion_key = "{{ notion_key_simple }}"

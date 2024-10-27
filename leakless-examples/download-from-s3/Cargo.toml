@@ -1,0 +1,31 @@
+[package]
+name = "download_from_s3"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = [ "cdylib" ]
+
+[dependencies]
+# Useful crate to handle errors.
+anyhow = "1"
+annotation-lib = { path = "../../src/annotation-lib/" }
+# Crate to simplify working with bytes.
+bytes = "1"
+# General-purpose crate with common HTTP types.
+http = "0.2"
+# The Spin SDK.
+spin-sdk = { path = "../../sdk/rust" }
+# Crate that generates Rust Wasm bindings from a WebAssembly interface.
+wit-bindgen-rust = { git = "https://github.com/bytecodealliance/wit-bindgen", rev = "cb871cfa1ee460b51eb1d144b175b9aab9c50aba" }
+base64 = "0.13.1"
+# AWS
+chrono = "0.4.23"
+hex = "0.4.3"
+hmac-sha256 = "0.1"
+urlencoding = "1.1"
+
+[workspace]
+
+#[build]
+#rustflags = ["save-temps=yes"]

@@ -1,0 +1,28 @@
+spin_manifest_version = "1"
+authors = ["Maryam Rostamipoor"]
+description = "This application uses the received information as a JWT token to upload data to an external service"
+name = "jwt-sign"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+[variables]
+jwt_key = { default = "my_secret_key", leaklesssecret = true, leaklessoperation = "jwt-sign" }
+
+[[component]]
+id = "jwt-sign"
+app_id = "jwt-sign"
+allowed_http_hosts = ["insecure:allow-all"]
+source = "target/wasm32-wasi/release/jwt_sign.wasm"
+files = [{ source = "", destination = "/" }]
+description = ""
+
+[component.trigger]
+route = "/jwt-sign"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+watch = ["src/**/*.rs", "Cargo.toml"]
+
+
+
+[component.config]
+jwt_key = "{{ jwt_key }}"

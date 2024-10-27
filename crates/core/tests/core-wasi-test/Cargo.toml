@@ -1,0 +1,12 @@
+[package]
+name    = "core-wasi-test"
+version = "0.1.0"
+edition = "2021"
+
+[profile.release]
+debug = true
+
+[dependencies]
+wit-bindgen = "0.4.0"
+
+[workspace]

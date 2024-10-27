@@ -1,0 +1,1292 @@
+[
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/purge-everything-under-a-url-path-prefix/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/verify-if-a-web-crawler-accessing-your-server-really-is-googlebot/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/origin-mtls/",
+        "environments": "certificate_key",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "private key",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "N"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/add-a-new-field-to-a-json-response/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/template-engine-stream-transform/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/template-language-render/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/geo-ip-api-at-the-edge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/decorating-origin-requests-with-geoip/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/preflighting-for-flags/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/preflighting-for-paywall/",
+        "environments": null,
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "session_id",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/threat-intelligence-preflight/",
+        "environments": null,
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "hashed password",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "N"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/relative-date-insertion-using-esi/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/add-www-to-apex-hostname-and-subdomains/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/serve-stale-to-search-crawlers/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/support-caching-of-options-requests/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/overriding-ttls-based-on-content-type/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/overriding-ttls-path-prefix/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/streaming-server-sent-events/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/ipv6-to-ipv4-translation/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/no-origin-rum-logging/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/url-path-based-routing-for-microservices/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/replace-origin-errors-with-safe-responses/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/cors-options-preflights-at-the-edge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/serve-robots-txt-from-the-edge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/serve-stale-on-origin-failure/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/random-director-with-weighted-probability/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/consistent-hashing-director/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/fallback-director/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/client-director/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/custom-logging/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/synthetic-binary-responses/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/time-limited-url-tokens/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/image-optimization/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/io-response-content-type/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/scheduled-invalidation/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/enable-modern-web-security-headers-to-all-responses/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/configuration-version-discrepancy-detection/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/add-remove-or-change-http-headers/",
+        "environments": null,
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/rewrite-url-path/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/manipulate-query-string/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/change-request-method/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/gzip-compression-at-the-edge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/client-public-ip-api-at-the-edge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/add-or-remove-cookies/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/filter-cookies-or-other-structured-headers/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/remove-trailing-slashes-to-normalize-urls/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/caching-post-requests/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/regular-expression-capturing-patterns/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/dictionary-based-ip-block-list/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/acl-based-ip-block-list/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/captcha-challenge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/normalize-requests/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/search-and-replace-in-strings/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/google-cloud-storage-origin-public/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/google-cloud-storage-origin-private/",
+        "environments": null,
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/aws-s3-bucket-origin-private/",
+        "environments": null,
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "AWS secret key, AWS access key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 1,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/azure-blob-storage-bucket-origin-private/",
+        "environments": null,
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "Access key, Sign Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/alibaba-oss-private/",
+        "environments": null,
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "Access key, Sign Key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/logging-to-google-bigquery/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/unicode-escaping-in-vcl/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/base64-post-body/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/random-integers/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/extract-a-substring-from-a-string-value/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/post-to-get-rewrite-using-a-base64-encoded-querystring/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/set-pci-flag-to-disable-persistent-cache-storage/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/early-expiry-of-cached-objects/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/smoke-test-a-new-origin/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/compute-intersection-of-two-lists/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/hot-linking-protection/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/decompress-and-read-gzipped-responses/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/prohibit-browser-caching/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/edge-side-includes-esi/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/clean-backend-responses/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/force-tls-ssl-https/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/follow-redirects-at-the-edge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/cache-429-rate-limiter-responses-per-ip/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/vary-based-on-a-cookie/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/remove-querystring-from-static-assets/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/geofencing-geoblocking-content-by-region/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/ultra-local-proximity-cache-using-lat-long-grid/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/set-google-analytics-ga-cookie/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/failover-to-a-secondary-backend/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/io-failover-retry/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/comprehensive-logging/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/enable-features-gradually/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/image-transformation-classes/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/basic-shielding-example/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/image-montage-grid/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/anonymize-client-ip-for-logging/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/log-the-ip-version-ipv4ipv6/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/cache-graphql-query-response/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/base64-url-path-segments/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/check-validity-of-inputs-using-a-non-crypto-hash/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/json-web-tokens/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/ab-testing/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/redirect-old-urls-at-the-edge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/waiting-room/",
+        "environments": null,
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "2 Hash key",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 2,
+        "Number of proxy supported": 0,
+        "Type of support": "N"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/add-time-zone-offset-to-requests/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/time-formatting/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/perform-redirects-with-wildcard-patterns-using-an-edge-dictionary/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/throttling-per-country-over-configurable-time-periods/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/centurylink-compatible-token-validation/",
+        "environments": null,
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "hash key",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 1,
+        "Number of proxy supported": 0,
+        "Type of support": "N"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/async-requests-ordered-output/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/async-requests/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/slowing-down-responses-tarpit/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/support-for-edge-control-header/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/enrich-image-responses-with-exif-metadata/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/generate-a-qr-code/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/use-dynamic-backends-to-follow-redirects/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/bot-detection-using-ratecounter/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/rate-limit-requests/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/validate-domain-on-query-string/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/backend-health-status-api/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/check-for-viruses-using-virus-total/",
+        "environments": null,
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API key",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/protect-pngs-for-acropalypse/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/transform-a-response-while-streaming-it/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/set-a-timeout-on-a-request/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/conduct-security-chaos-experiments-in-requests/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/block-bad-user-agents/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/rewrite-url-based-on-the-subdomain/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/deny-access-to-certain-file-types/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/block-all-traffic-from-certain-countries/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/prevent-race-conditions-with-purge-all-and-shielding/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/use-surrogate-key-purges-for-purge-all-and-single-url-purge/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/use-regionally-distributed-origin-servers/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/pass-all-requests/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/read-environment-variables/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/register-a-dynamic-backend/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    },
+    {
+        "Link": "https://developer.fastly.com/solutions/examples/calculate-the-distance-between-two-points-on-earth/",
+        "environments": null,
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": null
+    }
+]

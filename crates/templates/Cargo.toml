@@ -1,0 +1,37 @@
+[package]
+name = "spin-templates"
+version = { workspace = true }
+authors = { workspace = true }
+edition = { workspace = true }
+
+[dependencies]
+anyhow = "1.0"
+async-trait = "0.1"
+bytes = "1.1"
+console = "0.15"
+dialoguer = "0.10"
+dirs = "3.0"
+fs_extra = "1.2"
+heck = "0.4"
+indexmap = { version = "1", features = ["serde"] }
+itertools = "0.10.3"
+lazy_static = "1.4.0"
+liquid = "0.23"
+liquid-core = "0.23"
+liquid-derive = "0.23"
+liquid-lib = "0.23"
+path-absolutize = "3.0.13"
+pathdiff = "0.2.1"
+regex = "1.5.4"
+semver = "1.0"
+serde = { version = "1.0", features = [ "derive" ] }
+sha2 = "0.10.1"
+spin-loader = { path = "../loader" }
+tempfile = "3.3.0"
+tokio = { version = "1.23", features = [ "fs", "process", "rt", "macros" ] }
+toml = "0.5"
+url = "2.2.2"
+walkdir = "2"
+wasmtime = { workspace = true }
+wasmtime-wasi = { workspace = true }
+wit-bindgen-wasmtime = { workspace = true }
