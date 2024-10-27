@@ -1,0 +1,32 @@
+target
+.husky
+# cache
+node_modules
+ignored-assets
+main.wasm
+.parcel-cache
+.vscode/*.log
+go.sum
+tests/**/Cargo.lock
+crates/**/Cargo.lock
+examples/**/Cargo.lock
+tests/testcases/*-generated
+spin-plugin-update.lock
+package-lock.json
+.spin
+key_moduleid
+jwt_sign
+services
+s3_sign
+jwt_token
+signal
+.vscode/
+*.pyc
+Cargo.lockleakless-examples/gcore-script/core_dumps/*.dump.*
+# Exclude all .txt files in any folder
+*.txt
+
+Cargo.lock
+.cargo/
+.cargo/config.toml
+.cargo/config

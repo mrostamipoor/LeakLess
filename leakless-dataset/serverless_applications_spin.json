@@ -1,0 +1,533 @@
+[
+    {
+        "Link Address": "https://github.com/abhishekkr/tutorials_as_code/blob/87ef8d70feac5a271bb4ae0392e63b9f01765d64/talks-articles/frameworks/spin_wasm/sample-app/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/adamreese/spin-example/blob/9679965e5bc500e6bd4e4cec58ea35381c488e83/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/bokjo/che-advent-of-spin/blob/e9cd7f10322c17a88819ee6ff999fcbb54fde02d/1-CHALLENGE/aos-c1-go/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/bokjo/che-advent-of-spin/blob/e9cd7f10322c17a88819ee6ff999fcbb54fde02d/2-CHALLENGE/aos-c2-rust-hello/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/chrismatteson/fermyon-perf-test/blob/302de3dae988134b92876cfc8e7535408f23a84a/vercel-hello-world/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/cmendible/azure.samples/blob/4d07af60d26d500c0e0ff2cdf93dc29f3671324e/aks_wasm_dotnet/dotnet_wasm/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/deislabs/containerd-wasm-shims/blob/4682b1af00f17bd79695fa13053ef3afb5a68afc/images/spin/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/devigned/kcd-2023/blob/0d23ee92c923855e9d6d50deb3bd210dc74cd15e/example2/future/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/EelcoKoster/Wasm-Wasi-demos/blob/9ca729a5af8c12973e764511e4e395676cf8bcaa/Spin/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/eightfish-org/eightfish-solochain/blob/7d8e25e410215c589466a2764e21c68cfb946ccd/examples/simple/spin-b.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/fermyon/spin-trigger-cron/blob/d3dce6fea5d34230233d6387604a074775bf5443/guest/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/fibonacci1729/sqlite-proxy/blob/0a5c12096395128adedebe0ce7423e3c03c53278/example/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/filipw/dotnet-wasi-demos/blob/ebbfb65ae8a6b54cf0380e2f8ccb2be1abdb3ed7/src/SpinWasiDemo/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/guregu/php/blob/a9ebd516de8f8995095676f61ea765f527235f88/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/isgasho/openforum/blob/6ab6559e7c5cf4be3ed2769eff616715648e118a/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/itowlson/bartmemfd2/blob/b65fb17e6d4050ab184951a4cf0ea5d9ac19326d/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/itowlson/spin-hub-cli/blob/986b946b7cc15965c03fd6b24f5bb9d313d1a751/spin-pluginify.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/itowlson/spin-trigger-sqs-poc/blob/9adb4749eff2ec4d1e2deffc1a4166017370f3e7/guest/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/jellydn/spin-demo-apps/blob/2cc5da3b9b1a1d8ee1c94131bf080150c5ae3d10/spin-rust-demo/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/jpflueger/k8s-spin-demo/blob/81bbf6af37092677f1290172a3b7bd425317e4fe/webhooks/spin.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "Sign key, modified API key",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 2,
+        "Number of proxy supported": 0,
+        "Type of support": "N"
+    },
+    {
+        "Link Address": "https://github.com/jpflueger/spin-todo/blob/fdc63ed2daaa11eca9950e5e126dbb8be9e742f8/spin.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/KaiWalter/spin-samples/blob/768bc3709c78c4a315a31950ebc6df1f2cd517b8/ts-dapr/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/kawaiisolutions/tactics/blob/c4a8772d31ad21b1270698a78ba4e32ecd290f0b/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/lee-orr/spin-message-trigger/blob/d318ee08217f5c94ee4e86120cfbd31508e215ff/templates/message-app/content/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/Liquid-Reply/kwasm-demos/blob/48609d5b3fc6de4250c6807e862e8fbdfc3393fd/suard/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/michelleN/bites/blob/ec78feebcee8271322f5cb6d1833d0688595238e/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/mikkelhegn/click_n_bot/blob/0b41bfc41f34be2729ac891ba35abe887c82af96/click/spin.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "Redis password",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/nvima/toqr/blob/786b553b66c3304ea0f6ef7eda05978b22e440aa/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/palash25/advent-challenge-lowercase-svc/blob/8ca71a6cb11147b8830235e3d5578c8633eb0c81/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/parity-asia/hackathon-2023-summer/blob/0e1b1e146c6bc149dc97157b3a38301c83b70b14/projects/23-Nomocracy/src/gutp-service/gutp/spin-a.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/patterns/pink-elephants/blob/c32dc3f6bbab19fc50b128d42ef86785554e3464/bartholomew/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/psarna/country-counter-spin/blob/fcda00f82fd72c855c08cd5f409b6956f75430fb/spin.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/radu-matei/spin-llama2-chat/blob/255ff8c8a539d85efbbc6f132d5f94eba1d64a25/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/radu-matei/spin-nextjs/blob/1f2cfc6c339187db8b377ceb6e576db5d5baa7b0/templates/nextjs-frontend/content/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/radu-matei/spin-rust-logging/blob/aee5cef87728fce856fbafebfa618244710585da/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/rajatjindal/oauth-login-spin/blob/e6044ce7432e0d1590dbfa7e5d072ab4b7c70511/spin.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/rajatjindal/spin-go/blob/d93a17d618665ef5bb544f40de6f698ac36b94f1/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/rajatjindal/spin-test/blob/af2581630f58f47996e5de51046e7eec6e2052c7/examples/http-tinygo-router/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/rajatjindal/spin-test/blob/af2581630f58f47996e5de51046e7eec6e2052c7/examples/wagi-http-rust/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/rajatjindal/spin-test/blob/af2581630f58f47996e5de51046e7eec6e2052c7/templates/http-php/content/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/rajatjindal/spin-test/blob/af2581630f58f47996e5de51046e7eec6e2052c7/templates/redis-go/content/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/rajatjindal/spin-test/blob/af2581630f58f47996e5de51046e7eec6e2052c7/templates/redis-rust/content/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/RawkodeAcademy/exploring-webassembly-with-spin/blob/5c537e3c2291d60398573713f4648c05a71d0422/oci-registry/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/RawkodeAcademy/exploring-webassembly-with-spin/blob/5c537e3c2291d60398573713f4648c05a71d0422/real-app-openai-language-guesser/spin.toml",
+        "Number of senstive data ": 1,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 1,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/RawkodeAcademy/exploring-webassembly-with-spin/blob/5c537e3c2291d60398573713f4648c05a71d0422/whats-new-0.8/db-tls/spin.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/rawkode/advent-of-spin/blob/fc7bf47639f2cf1b2124de5eb4cd53d2efa74a33/2022/challenge-1/challenge-one-grain/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/rawkode/advent-of-spin/blob/fc7bf47639f2cf1b2124de5eb4cd53d2efa74a33/2022/challenge-4/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/rstropek/rust-api-fxs/blob/429e3ed13c77995bb6658192d20a22f46c040770/spin.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": " database name, database credential",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/StuartHarris/crux-passkey/blob/e2b2288ba12e6710f8db9f332411722ddbfae441/crux-passkey-server/spin.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "API token",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    },
+    {
+        "Link Address": "https://github.com/suneetnangia/wasm-orchestration-with-spin/blob/f634fa52f75efcae16fc2cea7d72dbfc18d701df/apps/mqtt/orderprocessor/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/technosophos/php-hello-spin/blob/e1fb68928231a83c974b2404d6e613a111199494/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/tensorush/zig-spin/blob/201326d3316c95f271e8e16d2cba911ad4ddb56c/examples/config/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/tensorush/zig-spin/blob/201326d3316c95f271e8e16d2cba911ad4ddb56c/examples/http-in/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/tensorush/zig-spin/blob/201326d3316c95f271e8e16d2cba911ad4ddb56c/examples/http-out/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/ThorstenHans/simple-url-shortener/blob/7136ed259ba2981e8a8a14deaea9ce927b4a3126/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/VamshiReddy02/spin-docusaurus/blob/4d98385613c0beb63512e13659df009321da3dac/templates/docusaurus/content/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/wasm-orchestration/wasm-orchestration-scripts/blob/6079086ae24ae80c98ca454eeefc0aa9ffd4cda4/functions/rust/prime-numbers/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/wasm-university/demos-free-wasm/blob/fbaf655575ea1be9c7d10a6c9290bdeacefa22d6/spin-demos/go-hello-world/spin.toml",
+        "Number of senstive data ": 0,
+        "Types of senstive data ": "N/A",
+        "Number of Leakless supported": 0,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "N/A"
+    },
+    {
+        "Link Address": "https://github.com/Winnie-1201/spin_app/blob/ae61a89df6fe3e7cadabe9041b4f97fae16c4fee/spin.toml",
+        "Number of senstive data ": 2,
+        "Types of senstive data ": "user password, API key",
+        "Number of Leakless supported": 2,
+        "Number of Leakless unsupported": 0,
+        "Number of proxy supported": 0,
+        "Type of support": "C"
+    }
+]

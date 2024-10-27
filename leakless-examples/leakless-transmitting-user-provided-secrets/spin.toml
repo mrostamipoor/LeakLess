@@ -1,0 +1,19 @@
+spin_manifest_version = "1"
+authors = ["Maryam Rostamipoor"]
+description = "An application that transmits secrets between two parties."
+name = "spin-transfer-secret"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+
+[[component]]
+id = "transfer_secret"
+app_id = "transfer_secret"
+source = "target/wasm32-wasi/release/transfer_secret.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/transfer-secret"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+

@@ -1,0 +1,23 @@
+spin_manifest_version = "1"
+authors = ["Fermyon Engineering <engineering@fermyon.com>"]
+description = "A simple Spin application written in (Tiny)Go."
+name = "spin-config-tinygo"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+[variables]
+object = { default = "teapot" }
+api_key = { default = "secret_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890", leaklesssecret = true }
+
+[[component]]
+id = "spin_config_tinygo"
+app_id = "spin_config_tinygo"
+source = "main.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/..."
+[component.config]
+message = "I'm a {{object}}"
+api_key = "{{ api_key }}"
+[component.build]
+command = "go generate && tinygo build -target=wasi -gc=leaking -no-debug -o main.wasm  ./tmp/main.go --sourcecode"

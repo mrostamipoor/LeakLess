@@ -1,0 +1,25 @@
+spin_manifest_version = "1"
+authors = ["Maryam Rostamipoor"]
+description = "This application uses stored in the function source code to upload data to an external service."
+name = "stored-password"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+[variables]
+username = { default = "username"}
+password = { default = "vTSAexmZuW~0", leaklesssecret=true}
+
+[[component]]
+id = "stored-passwordp"
+app_id = "stored-password"
+source = "target/wasm32-wasi/release/stored_password.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/stored-password"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+username = "{{ username }}"
+password = "{{ password }}"

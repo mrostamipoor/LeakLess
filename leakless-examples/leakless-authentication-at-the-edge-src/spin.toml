@@ -1,0 +1,25 @@
+spin_manifest_version = "1"
+authors = ["Fermyon Engineering <engineering@fermyon.com>"]
+description = "This example authenticates users using a shared API key."
+name = "spin-key-value"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+
+
+
+[[component]]
+id = "authenticate_edge_enc"
+app_id = "authenticate_edge"
+source = "target/wasm32-wasi/release/rust_key_value.wasm"
+
+allowed_http_hosts = ["insecure:allow-all"]
+key_value_stores = ["default"]
+[component.trigger]
+route = "/authenticate-at-edge-enc"
+[component.build]
+command = "cargo build --target wasm32-wasi --release --sourcecode"
+
+
+
+

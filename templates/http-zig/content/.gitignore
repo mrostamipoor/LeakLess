@@ -1,0 +1,3 @@
+main.wasm
+src/zig-cache/
+.spin/

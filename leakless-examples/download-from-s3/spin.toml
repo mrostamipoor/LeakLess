@@ -1,0 +1,27 @@
+spin_version = "1"
+authors = ["Maryam Rostamipoor"]
+description = "An example that fetchs an image from AWS S3 bucket/supports auth-token encryption"
+name = "download-from-s3"
+trigger = { type = "http", base = "/" }
+version = "1.0.0"
+
+
+[variables]
+s3_access = { default = "AKIATCKASPKEAMK5PBON", leaklesssecret=true}
+s3_secret = { default = "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",leaklesssecret=true, leaklessoperation="sign-request"}
+
+
+[[component]]
+id = "download-from-s3"
+app_id = "aws"
+source = "target/wasm32-wasi/release/download_from_s3.wasm"
+allowed_http_hosts = ["insecure:allow-all"]
+description = "A component that fetchs an image from AWS S3 bucket/supports auth-token encryption."
+[component.trigger]
+route = "/download-from-s3"
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+[component.config]
+s3_access = "{{ s3_access }}"
+s3_secret = "{{ s3_secret }}"

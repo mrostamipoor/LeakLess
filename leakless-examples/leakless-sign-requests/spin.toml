@@ -1,0 +1,27 @@
+spin_manifest_version = "1"
+name = "sign-request"
+version = "0.1.0"
+description = "An example of a component that signs HTTP requests."
+authors = ["Maryam Rostamipoor"]
+trigger = { type = "http", base = "/" }
+
+
+[variables]
+s3_access = { default = "AKIASKIOA3B6567WOUPI", leaklesssecret = true }
+s3_secret = { default = "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", leaklesssecret = true , leaklessoperation = "sign-request"}
+
+[[component]]
+source = "target/wasm32-wasi/release/sign_request.wasm"
+id ="sign-request"
+app_id ="sign-request"
+files = [{ source = "", destination = "/" }]
+allowed_http_hosts = ["insecure:allow-all"]
+[component.trigger]
+route = "/..."
+[component.build]
+command = "cargo build --target wasm32-wasi --release"
+
+
+[component.config]
+s3_access = "{{ s3_access }}"
+s3_secret = "{{ s3_secret }}"

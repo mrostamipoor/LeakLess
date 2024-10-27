@@ -1,0 +1,4 @@
+main.wasm
+main.gr.wasm
+target/
+.spin/

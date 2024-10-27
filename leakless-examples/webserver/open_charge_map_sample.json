@@ -1,0 +1,65 @@
+{
+    "ChargeDeviceID": "123456",
+    "ChargeDeviceRef": "REF001",
+    "ChargeDeviceName": "Downtown Charging Station",
+    "ChargeDeviceLocation": {
+        "Latitude": "52.400997",
+        "Longitude": "-1.508122"
+    },
+    "ChargeDeviceStatus": "Available",
+    "DateCreated": "2024-01-01T12:00:00Z",
+    "ConnectorDetails": [
+        {
+            "ConnectorID": "1",
+            "ConnectorType": "Type 2",
+            "RatedOutputkW": "22",
+            "ChargeMethod": "AC Single Phase",
+            "ChargeMode": "Mode 3",
+            "ChargePointStatus": "Available",
+            "TetheredCable": "Yes",
+            "Information": "Located near main entrance."
+        },
+        {
+            "ConnectorID": "2",
+            "ConnectorType": "CCS",
+            "RatedOutputkW": "50",
+            "ChargeMethod": "DC",
+            "ChargeMode": "Mode 4",
+            "ChargePointStatus": "Occupied",
+            "TetheredCable": "No",
+            "Information": "Fast charging point."
+        },
+        {
+            "ConnectorID": "2",
+            "ConnectorType": "CCS",
+            "RatedOutputkW": "50",
+            "ChargeMethod": "DC",
+            "ChargeMode": "Mode 4",
+            "ChargePointStatus": "Occupied",
+            "TetheredCable": "No",
+            "Information": "Fast charging point."
+        },
+        {
+            "ConnectorID": "2",
+            "ConnectorType": "CCS",
+            "RatedOutputkW": "50",
+            "ChargeMethod": "DC",
+            "ChargeMode": "Mode 4",
+            "ChargePointStatus": "Occupied",
+            "TetheredCable": "No",
+            "Information": "Fast charging point."
+        },
+        {
+            "ConnectorID": "2",
+            "ConnectorType": "CCS",
+            "RatedOutputkW": "50",
+            "ChargeMethod": "DC",
+            "ChargeMode": "Mode 4",
+            "ChargePointStatus": "Occupied",
+            "TetheredCable": "No",
+            "Information": "Fast charging point."
+        }
+
+    ],
+    "UsageCost": "\u00a30.30 per kWh"
+}
