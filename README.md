@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the official repository for "LeakLess: Selective Data Protection Against Memory Leakage Attacks for Serverless Platforms." This tool is designed to enhance security in serverless architectures by protecting sensitive data from memory leakage attacks. This README provides all the necessary resources and instructions to help you deploy and utilize LeakLess effectively.
+Welcome to the official repository for "LeakLess: Selective Data Protection Against Memory Leakage Attacks for Serverless Platforms". LeakLess is designed to protect secret data against memory disclosure vulnerabilities and transient execution attacks on serverless computing platforms that use language-level sandboxing to run untrusted code. LeakLess relies on selective in-memory encryption of developer-annotated sensitive data and addresses the limitations of previous selective data protection techniques by combining in-memory encryption with a separate I/O module. This enables the safe transmission of protected data between serverless functions and external hosts. We implemented LeakLess on the Spin serverless platform and evaluated it with real-world serverless applications. This README provides all the necessary resources and instructions to help you deploy and utilize LeakLess effectively.
 
 Read our detailed [research paper](https://mrostamipoor.github.io/files/leakless.pdf) to understand the methodology and the principles guiding the development of LeakLess.
 ## Build Instructions
