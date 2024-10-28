@@ -2,8 +2,9 @@
 
 ## Introduction
 
-This is the repository for the paper ``LeakLess: Selective Data Protection Against Memory Leakage Attacks for Serverless Platforms`` This repository contains all the resources and instructions necessary to demonstrate how LeakLess can be utilized to protect secrets in serverless applications. The instructions provided here guide you through running LeakLess in a local environment.
+Welcome to the official repository for "LeakLess: Selective Data Protection Against Memory Leakage Attacks for Serverless Platforms." This tool is designed to enhance security in serverless architectures by protecting sensitive data from memory leakage attacks. This README provides all the necessary resources and instructions to help you deploy and utilize LeakLess effectively.
 
+Read our detailed [research paper](https://mrostamipoor.github.io/files/leakless.pdf) to understand the methodology and the principles guiding the development of LeakLess.
 ## Build Instructions
 
 ### Requirements
